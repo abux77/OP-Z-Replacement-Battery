@@ -1,5 +1,5 @@
 # OP-Z-Replacement-Battery
-The files for a Frame and PCB that adapt LiPo battery for the OP-Z
+The files for a Frame and PCB that adapt a LiPo battery for the OP-Z
 
 ![Battery in OP-Z](Photos/BatteryInOP-Z.jpeg)
 
