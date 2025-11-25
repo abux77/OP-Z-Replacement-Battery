@@ -12,3 +12,7 @@ Here is the link to the official replacement battery that is no longer available
 https://www.ifixit.com/Guide/Teenage+Engineering+OP-Z+Battery+Replacement/128285
 
 https://www.ifixit.com/products/op-z-replacement-battery
+
+If you want to buy me a coffee check out the link below, if not, no problem
+
+https://buymeacoffee.com/buxelectronics
